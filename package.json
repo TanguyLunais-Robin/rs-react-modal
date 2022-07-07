@@ -1,5 +1,5 @@
 {
-  "name": "rs-react-modal",
+  "name": "ts-react-modal",
   "version": "2.0.2",
   "description": "A simple react modal",
   "main": "bundle.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://TanguyLunais-Robin/rs-react-modal.git"
+    "url": "git+https://TanguyLunais-Robin/ts-react-modal.git"
   },
   "author": "Tanguy Lunais-Robin",
   "license": "ISC",
   "bugs": {
-    "url": "https://TanguyLunais-Robin/rs-react-modal/issues"
+    "url": "https://TanguyLunais-Robin/ts-react-modal/issues"
   },
-  "homepage": "https://TanguyLunais-Robin/rs-react-modal#readme",
+  "homepage": "https://TanguyLunais-Robin/ts-react-modal#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@rollup/plugin-babel": "^5.3.0",

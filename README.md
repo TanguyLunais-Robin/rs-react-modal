@@ -1,2 +1,2 @@
-# rs-react-modal
+# ts-react-modal
 Modal Window
