@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://TanguyLunais-Robin/ts-react-modal.git"
+    "url": "git+https://github.com/TanguyLunais-Robin/ts-react-modal.git"
   },
   "author": "Tanguy Lunais-Robin",
   "license": "ISC",
