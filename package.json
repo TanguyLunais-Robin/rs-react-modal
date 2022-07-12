@@ -15,9 +15,9 @@
   "author": "Tanguy Lunais-Robin",
   "license": "ISC",
   "bugs": {
-    "url": "https://TanguyLunais-Robin/ts-react-modal/issues"
+    "url": "https://github.com/TanguyLunais-Robin/ts-react-modal/issues"
   },
-  "homepage": "https://TanguyLunais-Robin/ts-react-modal#readme",
+  "homepage": "https://github.com/TanguyLunais-Robin/ts-react-modal#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@rollup/plugin-babel": "^5.3.0",
